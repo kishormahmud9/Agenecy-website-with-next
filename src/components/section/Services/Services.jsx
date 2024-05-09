@@ -5,7 +5,7 @@ const Services = () => {
   return (
     <>
       <div className="py-20 mx-5">
-        <div className="grid grid-cols-3 gap-5 justify-center">
+        <div className="grid lg:grid-cols-3 gap-5">
           <Card />
           <Card />
           <Card />
